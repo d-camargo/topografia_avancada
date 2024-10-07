@@ -2,15 +2,16 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Prof. Diego Camargo
+[Contato: WhatsApp](https://wa.me/553135653353)
+Email: diegocamargo@cefetmg.br
+[Currículo Lattes](http://lattes.cnpq.br/0138793013112199)
 
-[Link to another page](./another-page.html).
+# [Ambiente Virtual](./another-page.html).
 
-There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
+## Calendário acadêmico - CEFET-MG
+[DIRGRAD/2024-2](https://www.dirgrad.cefetmg.br/wp-content/uploads/sites/81/2024/09/CalendarioGraduacao_2024_02_BHTE.pdf)
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
