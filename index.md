@@ -4,94 +4,45 @@ layout: default
 
 # Prof. Diego Camargo
 [Contato: WhatsApp](https://wa.me/553135653353)
-Email: diegocamargo@cefetmg.br
+
+diegocamargo@cefetmg.br
+
 [Currículo Lattes](http://lattes.cnpq.br/0138793013112199)
 
-# [Ambiente Virtual](./another-page.html).
-
+# [Página com dados do Ambiente Virtual](./another-page.html)
 
 ## Calendário acadêmico - CEFET-MG
 [DIRGRAD/2024-2](https://www.dirgrad.cefetmg.br/wp-content/uploads/sites/81/2024/09/CalendarioGraduacao_2024_02_BHTE.pdf)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Ementa
+Conceitos e fundamentos de Geotecnologias, Geoprocessamento e Georreferenciamento. Sensoriamento Remoto. Fotogrametria. Aquisição de Imagens. Análise Visual de Imagens. Processamento Digital de Imagens. Modelo Digital de Terreno. Sistemas de Informações Geográficas.
 
-## Header 2
+## Download QGIS
+Baixar a versão LTR (Long Term Release):
+[Link para baixar QGIS 3.34 - Windows](https://qgis.org/downloads/QGIS-OSGeo4W-3.34.9-1.msi)
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+# Aulas - Arquivos, tutoriais e vídeos
 
-### Header 3
+## Conceitos e fundamentos de Geotecnologias, Geoprocessamento e Georreferenciamento
+[Vídeo: LIVE - Perspectivas e aplicações das geotecnologias no contexto das engenharias](https://www.youtube.com/live/_TO5ur5-YEo?si=j7PJCIYL_TnWPkDI)
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+[Slides LIVE]()
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+## Sensoriamento Remoto e Fotogrametria
 
-#### Header 4
+## Aquisição de Imagens e Análise Visual de Imagens
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+## Processamento Digital de Imagens
 
-##### Header 5
+## Modelo Digital de Terreno
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+## Sistemas de Informações Geográficas
 
-###### Header 6
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
 
-### There's a horizontal rule below this.
+# Bibliografia
+SILVA, Irineu da; SEGANTINE, Paulo Cesar Lima. Topografia para engenharia: teoria e prática de geomática. Rio de Janeiro: Elsevier, 2015. 412 p., il. ISBN 9788535277487 (broch.).
 
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
 
 ### Small image
 
@@ -101,24 +52,3 @@ end
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
