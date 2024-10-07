@@ -4,13 +4,13 @@ layout: default
 
 # Topografia Avançada - G00TOPA0
 
-# Prof. Diego Camargo
-
-Email: diegocamargo@cefetmg.br
-
-[Contato: WhatsApp](https://wa.me/553135653353)
-
-[Currículo Lattes](http://lattes.cnpq.br/0138793013112199)
+># Prof. Diego Camargo
+>
+>Email: diegocamargo@cefetmg.br
+>
+>[Contato: WhatsApp](https://wa.me/553135653353)
+>
+>[Currículo Lattes](http://lattes.cnpq.br/0138793013112199)
 
 # [Página do Ambiente Virtual](./another-page.html)
 
