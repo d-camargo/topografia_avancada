@@ -1,6 +1,6 @@
-title: Minimal theme
+title: Topografia Avançada - G00TOPA0
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+description: Website da disciplina de Topografia Avançada do curso de Engenharia Civil do Centro Federal de Educação Tecnológica de Minas Gerais
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
