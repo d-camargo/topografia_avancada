@@ -8,7 +8,7 @@ layout: default
 >
 >Email: diegocamargo@cefetmg.br
 >
->[Contato: WhatsApp](https://wa.me/553135653353)
+>Contatos: [WhatsApp](https://wa.me/553135653353); [Telegram](https://t.me/eng_dcamargo)
 >
 >[Currículo Lattes](http://lattes.cnpq.br/0138793013112199)
 
