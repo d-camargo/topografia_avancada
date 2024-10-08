@@ -29,7 +29,7 @@ Versão LTR (Long Term Release):
 ## Conceitos e fundamentos de Geotecnologias, Geoprocessamento e Georreferenciamento
 [Vídeo: LIVE - Perspectivas e aplicações das geotecnologias no contexto das engenharias](https://www.youtube.com/live/_TO5ur5-YEo?si=j7PJCIYL_TnWPkDI)
 
-[Slides LIVE - Geotecnologias]()
+[Slides LIVE - Geotecnologias](https://github.com/d-camargo/topografia_avancada/blob/4fa9aeda07fa25ca6b49a7e943628e4a1f58b00d/docs/DIEGO_CAMARGO-CREA-ES_VF.pdf)
 
 ## Sensoriamento Remoto e Fotogrametria
 
