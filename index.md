@@ -52,12 +52,3 @@ Versão LTR (Long Term Release):
 SILVA, Irineu da; SEGANTINE, Paulo Cesar Lima. Topografia para engenharia: teoria e prática de geomática. Rio de Janeiro: Elsevier, 2015. 412 p., il. ISBN 9788535277487 (broch.).
 
 MOURA, Ana Clara Mourão. GEOPROCESSAMENTO na Gestão e Planejamento Urbano. Editora Interciência, 2014. E-book. (314 p.). ISBN 9788571933583. Disponível em: https://middleware-bv.am4.com.br/SSO/cefet/9788571933583. Acesso em: 7 out. 2024. 
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
