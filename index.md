@@ -20,6 +20,11 @@ layout: default
 ## Ementa
 Conceitos e fundamentos de Geotecnologias, Geoprocessamento e Georreferenciamento. Sensoriamento Remoto. Fotogrametria. Aquisição de Imagens. Análise Visual de Imagens. Processamento Digital de Imagens. Modelo Digital de Terreno. Sistemas de Informações Geográficas.
 
+## Plano didático
+[Topografia Avançada - T01](https://raw.githubusercontent.com/d-camargo/topografia_avancada/refs/heads/master/docs/Plano-Didatico-Topografia_Avancada-T01.pdf)
+
+[Topografia Avançada - T02](https://raw.githubusercontent.com/d-camargo/topografia_avancada/refs/heads/master/docs/Plano-Didatico-Topografia_Avancada-T02.pdf)
+
 ## Download QGIS
 Versão LTR (Long Term Release):
 [Baixar QGIS 3.34 - Windows](https://qgis.org/downloads/QGIS-OSGeo4W-3.34.9-1.msi)
@@ -30,6 +35,8 @@ Versão LTR (Long Term Release):
 [Vídeo: LIVE - Perspectivas e aplicações das geotecnologias no contexto das engenharias](https://www.youtube.com/live/_TO5ur5-YEo?si=j7PJCIYL_TnWPkDI)
 
 [Slides LIVE - Geotecnologias](https://raw.githubusercontent.com/d-camargo/topografia_avancada/refs/heads/master/docs/DIEGO_CAMARGO-CREA-ES_VF.pdf)
+
+[Conceitos e fundamentos de Geoprocessamento e Georreferenciamento](https://raw.githubusercontent.com/d-camargo/topografia_avancada/refs/heads/master/docs/AULA_01-INTRODUCAO.pdf)
 
 ## Sensoriamento Remoto e Fotogrametria
 
