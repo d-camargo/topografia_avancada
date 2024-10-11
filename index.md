@@ -38,6 +38,8 @@ Versão LTR (Long Term Release):
 
 [Conceitos e fundamentos de Geoprocessamento e Georreferenciamento](https://raw.githubusercontent.com/d-camargo/topografia_avancada/refs/heads/master/docs/AULA_01-INTRODUCAO.pdf)
 
+[Tutorial - Inserir camada vetorial no QGIS](https://medium.com/@eng.diegocamargo/01-inserir-camada-vetorial-no-qgis-0400d72ad394)
+
 ## Sensoriamento Remoto e Fotogrametria
 
 ## Aquisição de Imagens e Análise Visual de Imagens
