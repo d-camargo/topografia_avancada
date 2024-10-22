@@ -40,6 +40,8 @@ Versão LTR (Long Term Release):
 
 [Tutorial - Inserir camada vetorial no QGIS](https://medium.com/@eng.diegocamargo/01-inserir-camada-vetorial-no-qgis-0400d72ad394)
 
+[Atividade 01](https://medium.com/@eng.diegocamargo/atividade-01-topografia-avançada-b3237a0a2bc2)
+
 ## Sensoriamento Remoto e Fotogrametria
 
 ## Aquisição de Imagens e Análise Visual de Imagens
