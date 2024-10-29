@@ -38,7 +38,9 @@ Versão LTR (Long Term Release):
 
 [Conceitos e fundamentos de Geoprocessamento e Georreferenciamento](https://raw.githubusercontent.com/d-camargo/topografia_avancada/refs/heads/master/docs/AULA_01-INTRODUCAO.pdf)
 
-[Tutorial - Inserir camada vetorial no QGIS](https://medium.com/@eng.diegocamargo/01-inserir-camada-vetorial-no-qgis-0400d72ad394)
+[Tutorial - #01 Inserir camada vetorial no QGIS](https://medium.com/@eng.diegocamargo/01-inserir-camada-vetorial-no-qgis-0400d72ad394)
+
+[Tutorial - #02 Construção de mapa graduado e categorizado QGIS](https://medium.com/@eng.diegocamargo/02-constru%C3%A7%C3%A3o-de-mapa-graduado-e-categorizado-qgis-13d75047f816)
 
 [Atividade 01](https://medium.com/@eng.diegocamargo/atividade-01-topografia-avançada-b3237a0a2bc2)
 
