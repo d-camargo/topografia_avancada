@@ -42,6 +42,8 @@ Versão LTR (Long Term Release):
 
 [Tutorial - #02 Construção de mapa graduado e categorizado QGIS](https://medium.com/@eng.diegocamargo/02-constru%C3%A7%C3%A3o-de-mapa-graduado-e-categorizado-qgis-13d75047f816)
 
+[Tutorial - #03 Layout de impressão QGIS](https://medium.com/@eng.diegocamargo/03-layout-de-impressão-qgis-ba1125035084)
+
 [Atividade 01](https://medium.com/@eng.diegocamargo/atividade-01-topografia-avançada-b3237a0a2bc2)
 
 ## Sensoriamento Remoto e Fotogrametria
