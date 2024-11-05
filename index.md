@@ -20,7 +20,7 @@ layout: default
 ## Ementa
 Conceitos e fundamentos de Geotecnologias, Geoprocessamento e Georreferenciamento. Sensoriamento Remoto. Fotogrametria. Aquisição de Imagens. Análise Visual de Imagens. Processamento Digital de Imagens. Modelo Digital de Terreno. Sistemas de Informações Geográficas.
 
-## Plano didático
+## Plano didático e informações
 [Topografia Avançada - T01](https://raw.githubusercontent.com/d-camargo/topografia_avancada/refs/heads/master/docs/Plano-Didatico-Topografia_Avancada-T01.pdf)
 
 [Topografia Avançada - T02](https://raw.githubusercontent.com/d-camargo/topografia_avancada/refs/heads/master/docs/Plano-Didatico-Topografia_Avancada-T02.pdf)
