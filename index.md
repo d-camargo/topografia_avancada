@@ -25,6 +25,8 @@ Conceitos e fundamentos de Geotecnologias, Geoprocessamento e Georreferenciament
 
 [Topografia Avançada - T02](https://raw.githubusercontent.com/d-camargo/topografia_avancada/refs/heads/master/docs/Plano-Didatico-Topografia_Avancada-T02.pdf)
 
+[Cadastro e acesso a biblioteca Pearson](https://www.bu.cefetmg.br/acesso-e-cadastro-a-biblioteca-pearson/)
+
 ## Download QGIS
 Versão LTR (Long Term Release):
 [Baixar QGIS 3.34 - Windows](https://qgis.org/downloads/QGIS-OSGeo4W-3.34.9-1.msi)
