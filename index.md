@@ -50,9 +50,19 @@ Versão LTR (Long Term Release):
 
 [Arquivos da AT01](https://1drv.ms/f/s!ArShj50vZW0Qhr0gck21OUxtovihqw?e=NJm8tM)
 
-## Sensoriamento Remoto e Fotogrametria
+## Sensoriamento Remoto, Fotogrametria e Aquisição de Imagens
 
-## Aquisição de Imagens e Análise Visual de Imagens
+[Sensoriamento Remoto e Aquisição de imagens](https://raw.githubusercontent.com/d-camargo/topografia_avancada/refs/heads/master/docs/AULA_02-SENSORIAMENTO_REMOTO.pdf)
+
+>[Alaska Satellite Facility - ASF Data Vertex](https://search.asf.alaska.edu/#/)
+>
+>[U.S. Geological Survey - USGS](https://earthexplorer.usgs.gov/)
+>
+>[Catálago do Instituto Nacional de Pesquisas Espaciais - INPE](http://www.dgi.inpe.br/catalogo/explore)
+
+[Tutorial - Georreferenciamento de imagens no QGIS](https://medium.com/@eng.diegocamargo/georreferenciamento-de-imagens-no-qgis-72bf79f6cb6e)
+
+## Análise Visual de Imagens
 
 ## Processamento Digital de Imagens
 
