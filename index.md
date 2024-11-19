@@ -62,6 +62,8 @@ Versão LTR (Long Term Release):
 
 [Tutorial - Georreferenciamento de imagens no QGIS](https://medium.com/@eng.diegocamargo/georreferenciamento-de-imagens-no-qgis-72bf79f6cb6e)
 
+[Índices para sensoriamento remoto](https://medium.com/@eng.diegocamargo/ndvi-ndbi-e-mndwi-tr%C3%AAs-%C3%ADndices-essenciais-no-sensoriamento-remoto-e38414da6d4d)
+
 [Atividade 02](https://medium.com/@eng.diegocamargo/atividade-02-topografia-avançada-b9cf6f990ba5)
 
 ## Análise Visual de Imagens
