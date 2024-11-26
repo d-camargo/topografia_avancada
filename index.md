@@ -64,6 +64,8 @@ Versão LTR (Long Term Release):
 
 [Índices para sensoriamento remoto](https://medium.com/@eng.diegocamargo/ndvi-ndbi-e-mndwi-tr%C3%AAs-%C3%ADndices-essenciais-no-sensoriamento-remoto-e38414da6d4d)
 
+[Calculadora raster no QGIS](https://medium.com/@eng.diegocamargo/calculadora-raster-no-qgis-5a2c4a0f129c)
+
 [Artigo 1](https://docs.google.com/viewerng/viewer?url=http://wiki.dpi.inpe.br/lib/exe/fetch.php?media%3Dcst-310-popea:monografia_monicasousa-trabfinal.pdf)
 
 [Artigo 2](https://www.researchgate.net/publication/273886729_Built-up_area_extraction_using_Landsat_8_OLI_imagery)
