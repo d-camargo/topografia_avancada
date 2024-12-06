@@ -66,6 +66,8 @@ Versão LTR (Long Term Release):
 
 [Calculadora raster no QGIS](https://medium.com/@eng.diegocamargo/calculadora-raster-no-qgis-5a2c4a0f129c)
 
+[Mapa de declividade com o TOPODATA](https://medium.com/@eng.diegocamargo/mapa-de-declividade-com-o-topodata-f42eaafc01dd)
+
 [Artigo 1](https://docs.google.com/viewerng/viewer?url=http://wiki.dpi.inpe.br/lib/exe/fetch.php?media%3Dcst-310-popea:monografia_monicasousa-trabfinal.pdf)
 
 [Artigo 2](https://www.researchgate.net/publication/273886729_Built-up_area_extraction_using_Landsat_8_OLI_imagery)
