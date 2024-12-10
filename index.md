@@ -77,6 +77,7 @@ Versão LTR (Long Term Release):
 ## Sistemas de Informações Geográficas
 
 ### Estrutura de dados
+[Estrutura de dados para utilização em SIG](https://raw.githubusercontent.com/d-camargo/topografia_avancada/refs/heads/master/docs/AULA_03-ESTRUTURA_DADOS.pdf)
 
 ### Aplicações em Hidrografia/Hidrologia
 
