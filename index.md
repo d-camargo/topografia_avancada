@@ -50,7 +50,7 @@ Versão LTR (Long Term Release):
 
 [Arquivos da AT01](https://1drv.ms/f/s!ArShj50vZW0Qhr0gck21OUxtovihqw?e=NJm8tM)
 
-## Sensoriamento Remoto, Fotogrametria e Aquisição de Imagens
+## Sensoriamento Remoto, Fotogrametria, Aquisição de Imagens, Processamento Digital de Imagens, Modelo Digital de Terreno e Análise Visual de Imagens
 
 [Sensoriamento Remoto e Aquisição de imagens](https://raw.githubusercontent.com/d-camargo/topografia_avancada/refs/heads/master/docs/AULA_02-SENSORIAMENTO_REMOTO.pdf)
 
@@ -62,11 +62,11 @@ Versão LTR (Long Term Release):
 
 [Tutorial - Georreferenciamento de imagens no QGIS](https://medium.com/@eng.diegocamargo/georreferenciamento-de-imagens-no-qgis-72bf79f6cb6e)
 
-[Índices para sensoriamento remoto](https://medium.com/@eng.diegocamargo/ndvi-ndbi-e-mndwi-tr%C3%AAs-%C3%ADndices-essenciais-no-sensoriamento-remoto-e38414da6d4d)
+[Tutorial - #01 Índices para sensoriamento remoto](https://medium.com/@eng.diegocamargo/ndvi-ndbi-e-mndwi-tr%C3%AAs-%C3%ADndices-essenciais-no-sensoriamento-remoto-e38414da6d4d)
 
-[Calculadora raster no QGIS](https://medium.com/@eng.diegocamargo/calculadora-raster-no-qgis-5a2c4a0f129c)
+[Tutorial - #02 Calculadora raster no QGIS](https://medium.com/@eng.diegocamargo/calculadora-raster-no-qgis-5a2c4a0f129c)
 
-[Mapa de declividade com o TOPODATA](https://medium.com/@eng.diegocamargo/mapa-de-declividade-com-o-topodata-f42eaafc01dd)
+[Tutorial - #03 Mapa de declividade com o TOPODATA](https://medium.com/@eng.diegocamargo/mapa-de-declividade-com-o-topodata-f42eaafc01dd)
 
 [Artigo 1](https://docs.google.com/viewerng/viewer?url=http://wiki.dpi.inpe.br/lib/exe/fetch.php?media%3Dcst-310-popea:monografia_monicasousa-trabfinal.pdf)
 
@@ -74,13 +74,9 @@ Versão LTR (Long Term Release):
 
 [Atividade 02](https://medium.com/@eng.diegocamargo/atividade-02-topografia-avançada-b9cf6f990ba5)
 
-## Análise Visual de Imagens
-
-## Processamento Digital de Imagens
-
-## Modelo Digital de Terreno
-
 ## Sistemas de Informações Geográficas
+
+### Estrutura de dados
 
 ### Aplicações em Hidrografia/Hidrologia
 
