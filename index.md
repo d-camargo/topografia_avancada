@@ -79,6 +79,8 @@ Versão LTR (Long Term Release):
 ### Estrutura de dados
 [Estrutura de dados para utilização em SIG](https://raw.githubusercontent.com/d-camargo/topografia_avancada/refs/heads/master/docs/AULA_03-ESTRUTURA_DADOS.pdf)
 
+[Atividade 03](https://medium.com/@eng.diegocamargo/atividade-03-topografia-avan%C3%A7ada-ab4bb1ab2c77)
+
 ### Aplicações em Hidrografia/Hidrologia
 
 ### Aplicações em Transportes
