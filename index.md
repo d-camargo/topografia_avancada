@@ -23,7 +23,7 @@ Conceitos e fundamentos de Geotecnologias, Geoprocessamento e Georreferenciament
 ## Plano didático e informações
 [Topografia Avançada - T01](https://raw.githubusercontent.com/d-camargo/topografia_avancada/refs/heads/master/docs/Plano-Didatico-Topografia_Avancada-T01_2025-1.pdf)
 
-[Topografia Avançada - T02](https://raw.githubusercontent.com/d-camargo/topografia_avancada/refs/heads/master/docs/Plano-Didatico-Topografia_Avancada-T02.pdf)
+[Topografia Avançada - T02](https://raw.githubusercontent.com/d-camargo/topografia_avancada/refs/heads/master/docs/Plano-Didatico-Topografia_Avancada-T02_2025-1.pdf)
 
 [Cadastro e acesso a biblioteca Pearson](https://www.bu.cefetmg.br/acesso-e-cadastro-a-biblioteca-pearson/)
 
