@@ -15,7 +15,10 @@ layout: default
 # [Página do Ambiente Virtual](./another-page.html)
 
 ## Calendário acadêmico - CEFET-MG
-[DIRGRAD/2024-2]([https://www.dirgrad.cefetmg.br/wp-content/uploads/sites/81/2024/09/CalendarioGraduacao_2024_02_BHTE.pdf](https://www.dirgrad.cefetmg.br/wp-content/uploads/sites/81/2025/03/Calendario_Graduacao_2025_1_Belo-Horizonte.pdf))
+
+[DIRGRAD/2025-1](https://www.dirgrad.cefetmg.br/wp-content/uploads/sites/81/2025/03/Calendario_Graduacao_2025_1_Belo-Horizonte.pdf)
+
+[DIRGRAD/2024-2](https://www.dirgrad.cefetmg.br/wp-content/uploads/sites/81/2024/09/CalendarioGraduacao_2024_02_BHTE.pdf)
 
 ## Ementa
 Conceitos e fundamentos de Geotecnologias, Geoprocessamento e Georreferenciamento. Sensoriamento Remoto. Fotogrametria. Aquisição de Imagens. Análise Visual de Imagens. Processamento Digital de Imagens. Modelo Digital de Terreno. Sistemas de Informações Geográficas.
