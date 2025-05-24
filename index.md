@@ -75,7 +75,9 @@ Versão LTR (Long Term Release):
 
 [Artigo 2](https://www.researchgate.net/publication/273886729_Built-up_area_extraction_using_Landsat_8_OLI_imagery)
 
-[Atividade 02](https://medium.com/@eng.diegocamargo/atividade-02-topografia-avançada-b9cf6f990ba5)
+[Atividade 02](https://medium.com/@eng.diegocamargo/atividade-2-0-770f4f4e3992)
+
+[Atividade 03]()
 
 ## Sistemas de Informações Geográficas
 
