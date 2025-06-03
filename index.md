@@ -77,7 +77,11 @@ Versão LTR (Long Term Release):
 
 [Atividade 02](https://medium.com/@eng.diegocamargo/atividade-2-0-770f4f4e3992)
 
-[Atividade 03]()
+[Atividade 03](https://medium.com/@eng.diegocamargo/atividade-03-c5108475f12a)
+
+[Modelo Digital de Terreno - Principais conceitos](https://medium.com/@eng.diegocamargo/modelo-digital-de-elevação-9e70739e56ff)
+
+[Atividade 04](https://medium.com/@eng.diegocamargo/atividade-04-3c7a7416b3fa)
 
 ## Sistemas de Informações Geográficas
 
